@@ -9,5 +9,3 @@ This is a four-function calculator built using **HTML, CSS, and JavaScript**. Th
 You can interact with the calculator right now!
 
 **[View Live Calculator Demo Here](https://wysemantalal.github.io/simple-js-calculator/)**
-test
-test-1
